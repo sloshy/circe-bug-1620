@@ -1,0 +1,6 @@
+{
+  "error" : "LoginFailed",
+  "payload" : {
+    "username" : "username"
+  }
+}

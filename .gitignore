@@ -1,0 +1,7 @@
+.bloop/
+.metals/
+target/
+metals.sbt
+.bsp/
+.vscode/
+*.worksheet.sc
